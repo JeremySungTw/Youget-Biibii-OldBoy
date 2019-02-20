@@ -6,3 +6,7 @@
 
 
 ## 不足之處
+這次爬取時遇到如下圖所示，影片選集列表由JS生成，因此使用bs4中的lxml爬取到網址，
+比較好的作法應使用Scrapy爬蟲框架爬取，  
+
+![](https://i.imgur.com/jpFaozW.png)
